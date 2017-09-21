@@ -1,6 +1,6 @@
 nyan = (function() {
-    var MP3_SRC = "nyancat.mp3";
-    var IMG_SRC = "nyancat.gif";
+    var MP3_SRC = "https://github.com/ValQuev/nyancat/blob/master/nyancat.mp3?raw=true";
+    var IMG_SRC = "https://github.com/ValQuev/nyancat/blob/master/nyancat.gif?raw=true";
 
     var STEP_SIZE = 25;
     var audio, body, img, targetX, targetY, mouseX = 0, mouseY = 0;
